@@ -1,4 +1,5 @@
-# Analytics-Challenge
+# Analytics Challenge Case Study
+
 ## The Context
 Our client, a leading grocery retailer, is interested in forecasting weekly sales volumes based on historic transactional data. They are also interested in understanding the impact of pricing on sales volume and seek recommendations on pricing strategy.
 
